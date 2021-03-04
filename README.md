@@ -26,4 +26,4 @@ The final rankings would be based on your private score which will be published 
 # Leaderboard
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **122nd Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **133nd Rank**
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **133rd Rank**
